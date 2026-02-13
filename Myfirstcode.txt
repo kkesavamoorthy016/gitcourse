@@ -1,4 +1,8 @@
 Hello world.!!
 SAM
 KESAV
+<<<<<<< HEAD
 dsa demo merge conflict
+=======
+dsa demo feature 1 merge conflict
+>>>>>>> feature1
